@@ -12,7 +12,7 @@
 ~H
 # Command Line History (newest to oldest):
 :wq!
-|2,0,1639397109,,"wq!"
+|2,0,1639459022,,"wq!"
 :q!
 |2,0,1639397015,,"q!"
 :rrr
@@ -29,24 +29,40 @@
 # Registers:
 
 # File marks:
-'0  2  3  ~/newfile3
-|4,48,2,3,1639397109,"~/newfile3"
-'1  4  0  ~/newfile2
-|4,49,4,0,1639397063,"~/newfile2"
-'2  2  19  ~/newfile1
-|4,50,2,19,1639397015,"~/newfile1"
+'0  1  14  ~/newfile2.txt
+|4,48,1,14,1639459022,"~/newfile2.txt"
+'1  2  3  ~/newfile3
+|4,49,2,3,1639397109,"~/newfile3"
+'2  4  0  ~/newfile2
+|4,50,4,0,1639397063,"~/newfile2"
 '3  2  19  ~/newfile1
-|4,51,2,19,1639397001,"~/newfile1"
+|4,51,2,19,1639397015,"~/newfile1"
+'4  2  19  ~/newfile1
+|4,52,2,19,1639397001,"~/newfile1"
 
 # Jumplist (newest first):
+-'  1  14  ~/newfile2.txt
+|4,39,1,14,1639459022,"~/newfile2.txt"
 -'  2  3  ~/newfile3
 |4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
 -'  1  0  ~/newfile3
 |4,39,1,0,1639397075,"~/newfile3"
 -'  4  0  ~/newfile2
 |4,39,4,0,1639397063,"~/newfile2"
 -'  4  0  ~/newfile2
 |4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
 -'  1  0  ~/newfile2
 |4,39,1,0,1639397027,"~/newfile2"
 -'  1  0  ~/newfile2
@@ -60,6 +76,18 @@
 -'  2  19  ~/newfile1
 |4,39,2,19,1639397015,"~/newfile1"
 -'  2  19  ~/newfile1
+|4,39,2,19,1639397015,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397015,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397015,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397015,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397001,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397001,"~/newfile1"
+-'  2  19  ~/newfile1
 |4,39,2,19,1639397001,"~/newfile1"
 -'  2  19  ~/newfile1
 |4,39,2,19,1639397001,"~/newfile1"
@@ -67,6 +95,26 @@
 |4,39,2,19,1639397001,"~/newfile1"
 -'  2  19  ~/newfile1
 |4,39,2,19,1639397001,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397001,"~/newfile1"
+-'  2  19  ~/newfile1
+|4,39,2,19,1639397001,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
+-'  1  0  ~/newfile1
+|4,39,1,0,1639396932,"~/newfile1"
 -'  1  0  ~/newfile1
 |4,39,1,0,1639396932,"~/newfile1"
 -'  1  0  ~/newfile1
@@ -85,6 +133,13 @@
 |4,39,1,0,1639396932,"~/newfile1"
 
 # History of marks within files (newest to oldest):
+
+> ~/newfile2.txt
+	*	1639459015	0
+	"	1	14
+	^	1	15
+	.	1	14
+	+	1	14
 
 > ~/newfile3
 	*	1639397104	0

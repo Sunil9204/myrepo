@@ -61,3 +61,75 @@ clear
 cd /c/Users/skpai/app.css
 cd C:\Users\skpai\app.css
 exit
+sudo yum update
+ls -l
+git status
+gitremote show origin
+git remote show origin
+git remote add origin https://github.com/Sunil9204/myrepo.git
+gti remote add  https://github.com/Sunil9204/myrepo.git
+git remote add origin https://github.com/Sunil9204/myrepo.git
+git remote status origin https://github.com/Sunil9204/myrepo.git
+clear
+git remote add origin https://github.com/Sunil9204/myrepo.git
+git remote set-url origin https://github.com/Sunil9204/myrepo.git
+git status
+git add .
+git status
+git remote show origin
+git push -u origin 
+git add spk.txt
+cd C:\Users\skpai\spk
+git add .
+git commit -m "success commit"
+git remote add origin https://github.com/Sunil9204/myrepo.git
+git push -u origin
+git add file1.txt
+log
+git log
+git status
+file2.txt
+touch newfile1.txt
+touch newfile2.txt newfile3.txt
+ls -l
+cd myrepo
+cd https://github.com/Sunil9204/myrepo.git
+git add -all
+git add --all
+git push -u origin https://github.com/Sunil9204/myrepo.git
+git add --all
+git status
+git commit -m "3 files were added"
+git push origin https://github.com/Sunil9204/myrepo.git
+git status
+git push origin main
+git push origin branch1
+git push origin -u branch1
+git push origin
+git pull
+git push origin
+cd ..
+ls -l
+.. cd
+. cd
+ls -l
+vi newfile1
+vi newfile2
+vi newfile3
+git push origin
+git pull
+git config --global
+ls -l
+git push 'sunil9204' 'branch1'
+pwd
+cd C:\Users\skpai\spk\myrepo
+cd C:\Users\skpai\spk
+git init
+git add .
+git status
+git commit -m 'files were added successfully'
+git remote add origin https://github.com/Sunil9204/myrepo.git
+git push -u origin master
+git push -u origin main
+git push -f origin master
+git push -f origin main
