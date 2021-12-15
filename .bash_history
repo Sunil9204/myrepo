@@ -133,3 +133,63 @@ git push -u origin master
 git push -u origin main
 git push -f origin master
 git push -f origin main
+ls -l
+vi newfile2.txt
+git add .
+git status
+git commit -m "text file is updated"
+git push orgin master
+git push origin master
+git push origin main
+git rm newfile2.txt
+git commit -m "remove newfile2.txt
+
+git status
+ls -l
+git rm newfile1.txt
+git rm newfile3.txt
+git commit
+git commit -m "three files were removed
+git status
+git push origin 
+ls -l
+git add .
+git status
+git commit -m
+git commit -m "removed the old files"
+git push origin main
+git rm hellogitworld
+vi hellogitworld
+cd hellowgitworld
+cd ..
+cd hellowgitworld
+. cd
+ls -l
+git rm -r hellogitworld
+git logs
+git log
+docker --version
+docker logs
+docker ps -a
+l s-l
+ls -l
+git rm hellogitworld
+git remote add origin https://github.com/Sunil9204/myrepo.git
+mkdir .github/
+mkdir .github/workflows/
+ls -l
+clear
+exit
+sudo yum update
+npx create-react-app github-ci
+npm i -g npx
+npm install -g create-react-app
+npx create-react-app github-ci
+sudo install npm
+install --help
+ which npm
+where npm
+echo $path
+npm --version
+sudo apt install npm
+npm ls
