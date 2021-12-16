@@ -193,3 +193,22 @@ echo $path
 npm --version
 sudo apt install npm
 npm ls
+git status
+git remote add origin
+ls -l
+git commit -m "updated files today"
+git add .
+git status
+git log
+git commit -m "files were updated"
+git status
+git push origin main
+git status
+git add webfile
+git add webpage.html
+git status
+git log
+git remote add origin
+git add remote origin branch1
+git add origin branch1
+git log
