@@ -212,3 +212,31 @@ git remote add origin
 git add remote origin branch1
 git add origin branch1
 git log
+echo "#testpipe">>README.md
+git init
+ls -l
+git status
+git add .
+dit status
+git status
+git commit -m "pipeline commit is successfull"
+git branch -m main
+git remote add origin https://github.com/sunil9204/testpipe.git
+git push -u origin main
+ls -l
+vi readme.md
+ls -l
+git clone https://sunilp92@bitbucket.org/sunilp92/testrepo.git
+ls -l
+cd testrepo
+create file1.txt
+git add file1.txt
+cd ..
+. cd
+.cd
+cd .
+cd..
+cd ..
+cd .
+. cd
+exit
