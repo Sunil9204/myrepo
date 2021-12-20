@@ -15,7 +15,7 @@ $
 
 # Command Line History (newest to oldest):
 :q!
-|2,0,1639463352,,"q!"
+|2,0,1639633118,,"q!"
 :wq!
 |2,0,1639459022,,"wq!"
 :rrr
@@ -34,28 +34,46 @@ $
 # Registers:
 
 # File marks:
-'0  20  0  ~/hellogitworld
-|4,48,20,0,1639463352,"~/hellogitworld"
-'1  1  0  ~/.git/COMMIT_EDITMSG
-|4,49,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
-'2  1  14  ~/newfile2.txt
-|4,50,1,14,1639459022,"~/newfile2.txt"
-'3  2  3  ~/newfile3
-|4,51,2,3,1639397109,"~/newfile3"
-'4  4  0  ~/newfile2
-|4,52,4,0,1639397063,"~/newfile2"
-'5  2  19  ~/newfile1
-|4,53,2,19,1639397015,"~/newfile1"
+'0  1  0  ~/readme.md
+|4,48,1,0,1639633118,"~/readme.md"
+'1  20  0  ~/hellogitworld
+|4,49,20,0,1639463352,"~/hellogitworld"
+'2  1  0  ~/.git/COMMIT_EDITMSG
+|4,50,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
+'3  1  14  ~/newfile2.txt
+|4,51,1,14,1639459022,"~/newfile2.txt"
+'4  2  3  ~/newfile3
+|4,52,2,3,1639397109,"~/newfile3"
+'5  4  0  ~/newfile2
+|4,53,4,0,1639397063,"~/newfile2"
 '6  2  19  ~/newfile1
-|4,54,2,19,1639397001,"~/newfile1"
+|4,54,2,19,1639397015,"~/newfile1"
+'7  2  19  ~/newfile1
+|4,55,2,19,1639397001,"~/newfile1"
 
 # Jumplist (newest first):
+-'  1  0  ~/readme.md
+|4,39,1,0,1639633118,"~/readme.md"
+-'  20  0  ~/hellogitworld
+|4,39,20,0,1639463352,"~/hellogitworld"
 -'  20  0  ~/hellogitworld
 |4,39,20,0,1639463352,"~/hellogitworld"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
 -'  1  0  ~/.git/COMMIT_EDITMSG
 |4,39,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
+-'  1  0  ~/.git/COMMIT_EDITMSG
+|4,39,1,0,1639462006,"~/.git/COMMIT_EDITMSG"
+-'  1  14  ~/newfile2.txt
+|4,39,1,14,1639459022,"~/newfile2.txt"
+-'  1  14  ~/newfile2.txt
+|4,39,1,14,1639459022,"~/newfile2.txt"
+-'  1  14  ~/newfile2.txt
+|4,39,1,14,1639459022,"~/newfile2.txt"
+-'  1  14  ~/newfile2.txt
+|4,39,1,14,1639459022,"~/newfile2.txt"
 -'  1  14  ~/newfile2.txt
 |4,39,1,14,1639459022,"~/newfile2.txt"
 -'  1  14  ~/newfile2.txt
@@ -80,6 +98,38 @@ $
 |4,39,2,3,1639397109,"~/newfile3"
 -'  2  3  ~/newfile3
 |4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  2  3  ~/newfile3
+|4,39,2,3,1639397109,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
+-'  1  0  ~/newfile3
+|4,39,1,0,1639397075,"~/newfile3"
 -'  1  0  ~/newfile3
 |4,39,1,0,1639397075,"~/newfile3"
 -'  1  0  ~/newfile3
@@ -128,6 +178,38 @@ $
 |4,39,4,0,1639397063,"~/newfile2"
 -'  4  0  ~/newfile2
 |4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
+-'  4  0  ~/newfile2
+|4,39,4,0,1639397063,"~/newfile2"
 -'  1  0  ~/newfile2
 |4,39,1,0,1639397027,"~/newfile2"
 -'  1  0  ~/newfile2
@@ -160,96 +242,22 @@ $
 |4,39,1,0,1639397027,"~/newfile2"
 -'  1  0  ~/newfile2
 |4,39,1,0,1639397027,"~/newfile2"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397015,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
--'  2  19  ~/newfile1
-|4,39,2,19,1639397001,"~/newfile1"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
+-'  1  0  ~/newfile2
+|4,39,1,0,1639397027,"~/newfile2"
 
 # History of marks within files (newest to oldest):
+
+> ~/readme.md
+	*	1639633110	0
+	"	1	0
 
 > ~/.git/COMMIT_EDITMSG
 	*	1639461999	0
