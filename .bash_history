@@ -240,3 +240,65 @@ cd ..
 cd .
 . cd
 exit
+sudo yum update
+ls -l
+git push
+git rm onefile.txt
+git commit -m "one file is removed"
+git push
+git push origin master
+git push origin master https://sunilp92@bitbucket.org/sunilp92/testrepo.git
+git clone https://sunilp92@bitbucket.org/sunilp92/testrepo.git
+cd testrepo
+ls -l
+cd ..
+cd ~/repos/testrepo
+ls -l
+git rm README.md
+git commit -m "readme file id removed"
+ls -l
+git push origin master
+git status
+ls -l
+exit
+ls -l
+docker ps -a
+yes
+clear
+clear
+git clone https://github.com/Sunil9204/myrepo.git
+ls -l
+git rm -r hellogitworld
+git rm -fr hellogitworld
+git rm -r --cached hellogitworld
+git commit -m "removed hellogitworld"
+git push remote origin
+git push
+git push remote main
+git push origi main
+git push origin main
+git push origin master
+git status
+l s-l
+ls -l
+git push
+git push origin main
+git push originmaster
+git push origin master
+clear
+ls -l
+git checkout master
+git checkout branch1
+git commit -m "changes are committed"
+gti restore hellogitworld
+git restore hellogitworld
+git checkout branch1
+git commit -m "done"
+git checkout branch1
+git clone https://github.com/padok-team/github-actions-tutorial.git
+ls -l
+clear
+exit
+sudo yum update
+gti log
+git log
